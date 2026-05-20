@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="https://instasize.com/api/image/f175f708f10e0b0bc0555d8fc6d0faab40060fc16e95af3885cef23d12f99c8d.jpeg" width="500">
-</p>   ──── ୨୧ ──────────── ୨୧ ─────
+  <img src="https://i.postimg.cc/MHY5Kh80/ca46610088b2bda631a95d8ed82bc0ea.jpg" width="900">  ──── ୨୧ ──────────── ୨୧ ─────
 @y
